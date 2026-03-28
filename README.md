@@ -1,0 +1,33 @@
+# Here, you can try my new version of pong !
+
+## Features
+
+### Modes
+#### mode 0 player : To watch different bots fight.
+#### mode 1 player : To play against a bot at the difficulty level of your choice. 
+#### mode 2 player : To play with a friend.
+
+### Customizations
+#### Choose a player name (win screen depending on the winner's name).
+#### Choose the bot's difficulty..
+
+## Rule
+#### -> First to 3 points wins!
+
+## Complexity of bots
+#### Bot n°1 -> A slow bot which moves according to the ball's movement every other turn.
+#### Bot n°2 -> A lazy bot with the same logic that the first one but more reactive.
+#### Bot n°3 -> A humain-like bot which play only when the ball is on its side.
+#### Bot n°4 -> A brute which follow the ball all the time.
+#### Bot n°5 -> A smart bot that predicts where the ball will bounce and its trajectory.
+
+## How to install the game
+`
+git clone https://github.com/Gretoad/pong-game.git
+cd pong
+npm install # ou pip install -r requirements.txt
+python main.py # ou npm start
+`
+
+## Preview
+![pong_vid](pong.gif)
