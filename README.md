@@ -7,6 +7,10 @@
 #### mode 1 player : To play against a bot at the difficulty level of your choice (e.g : bot 2 vs bot 5).
 #### mode 2 player : To play with a friend.
 
+### Controls
+#### Player 1 : q -> up ; w -> down
+#### Player 2 : p -> up ; m -> down
+
 ### Customizations
 #### Choose a player name (win screen depending on the winner's name).
 #### Choose the bot's difficulty..
