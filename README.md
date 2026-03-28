@@ -30,7 +30,7 @@
 ## How to install the game
 ```
 git clone https://github.com/Gretoad/pong-game.git
-cd pong
+cd pong-game
 python3 main.py
 ```
 
