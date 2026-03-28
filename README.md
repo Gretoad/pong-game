@@ -10,6 +10,7 @@
 ### Customizations
 #### Choose a player name (win screen depending on the winner's name).
 #### Choose the bot's difficulty..
+#### Choose the ball’s initial speed.
 
 ## Rules
 #### -> First to 3 points wins!
