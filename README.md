@@ -8,8 +8,8 @@
 #### mode 2 player : To play with a friend.
 
 ### Controls
-#### Player 1 : q -> up ; w -> down
-#### Player 2 : p -> up ; m -> down
+#### Player 1 : q -> up ; w -> down
+#### Player 2 : p -> up ; m -> down
 
 ### Customizations
 #### Choose a player name (win screen depending on the winner's name).
