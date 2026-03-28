@@ -22,12 +22,12 @@
 #### Bot n°5 -> A smart bot that predicts where the ball will bounce and its trajectory.
 
 ## How to install the game
-`
+```
 git clone https://github.com/Gretoad/pong-game.git
 cd pong
 npm install # ou pip install -r requirements.txt
 python main.py # ou npm start
-`
+```
 
 ## Preview
-![pong_vid](pong.gif)
+![pong](https://github.com/user-attachments/assets/63f040d6-0bfb-4093-8356-44ad5f080622)
