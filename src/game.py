@@ -49,8 +49,8 @@ def set_settings():
 # Initialisation des éléments du jeu à partir des paramètres inscrits par l'utilisateur
 def initialize(mode, name1, name2, scale, bot1_lvl, bot2_lvl):
     window = tk.Tk(className = "Pingpong")  
-    width = 1500
-    height = 770
+    width = window.winfo_screenwidth()*0.9
+    height = window.winfo_screenheight()*0.9
     plan = Plan(window, width, height, "#000000")
     plan.canvas.pack()
 
