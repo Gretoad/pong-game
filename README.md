@@ -26,8 +26,7 @@
 ```
 git clone https://github.com/Gretoad/pong-game.git
 cd pong
-npm install # ou pip install -r requirements.txt
-python main.py # ou npm start
+python3 main.py
 ```
 
 ## Preview
