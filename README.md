@@ -1,4 +1,4 @@
-# Here, you can try my new version of pong !
+# Here, you can try my version of pong !
 
 ## Features
 
